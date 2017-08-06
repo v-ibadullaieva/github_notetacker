@@ -1,1 +1,1 @@
-# github_notetacker
+# react-github-notetacker
